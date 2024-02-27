@@ -29,3 +29,19 @@
 ## 14. c
 
 ## 15. http://localhost:3000/signup
+
+## Cara Menggunakan
+
+- Instal Dependensi:
+
+```
+  npm install
+```
+
+- Jalankan Server Pengembangan:
+
+```
+   npm run dev
+```
+
+Akses http://localhost:3000 pada browser Anda.
